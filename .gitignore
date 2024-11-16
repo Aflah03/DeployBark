@@ -1,0 +1,7 @@
+/venv
+/models
+*.bin
+/temp
+/output
+/models
+activate.sh
